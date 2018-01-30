@@ -1,8 +1,8 @@
-/********************
-Jennifer Ruiz Montalvo
-MyFirstJavaProgram1.java
-This program points a "Hello World" message
-********************/
+/*
+what's up!!!!!
+what are you doing??
+I am learning how to use GIT
+*/
 public class MyFirstJavaProgram{
   public static void main(String[] args){
     System.out.println("Hello World");
