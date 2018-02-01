@@ -1,13 +1,13 @@
 /*************
-FreeFries.javaimport
+FreeFries.java
 
-Jennifer Ruiz Montalvoimport
+Jennifer Ruiz Montalvo
 This program reads points scored by home team and the opposing team and determines IF the fans win FreeFries
 **************/
  import javax.swing.JOptionPane; //para uitlizar modo grafico GUI
 
  public class FreeFries{
-   public static void main(string[]args) {
+   public static void main(String[]args) {
      int homePoints; //points scored by home team
      int opponentPoints; //points scored by opposing team
 
