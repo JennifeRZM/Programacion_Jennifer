@@ -19,6 +19,11 @@ public class Electrodomesticos {
         this.color = Color;
     }
 
+    public void setPrecioBase(double PrecioBase) {
+        this.PrecioBase = PrecioBase;
+    }
+
+
     public double getPrecioBase() {
         return PrecioBase;
     }
@@ -55,7 +60,7 @@ public class Electrodomesticos {
         }
         this.color = Orinigal;
     }
-    public void precioFinal(){
+    public void precioFinalP(){
         double Total = 0;
         switch (this.ConsumoE){
             case 'A':
